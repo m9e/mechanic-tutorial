@@ -17,7 +17,7 @@ And when you've replaced the `# Do magic!` with something useful, if you should 
 
 Start with a new virtualenv:
 
-```shell
+```ShellSession
 astrolabe:code matt$ virtualenv -p python3 mechanic-example
 Running virtualenv with interpreter /Library/Frameworks/Python.framework/Versions/3.6/bin/python3
 Using base prefix '/Library/Frameworks/Python.framework/Versions/3.6'
